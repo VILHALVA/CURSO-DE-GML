@@ -2,14 +2,8 @@
 👨‍⚖️GML É UMA LINGUAGEM DE PROGRAMAÇÃO.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=GML)
-
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://manual.gamemaker.io/monthly/br/GameMaker_Language/GameMaker_Language_Index.htm) 
 [![GitHub Repo stars](https://img.shields.io/badge/USADO%20NA-ENGINE-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-GAME-MAKER) <br>
-
-<img src="https://ficheiros.com.br/assets/img/icons/files/128/gml-7299.png" align="center" width="280"> <br>
-
-![](https://i.imgur.com/waxVImv.png)
 
 # 👀VISÃO PANORÂMICA:
 | PERGUNTA | RESPOSTA |
