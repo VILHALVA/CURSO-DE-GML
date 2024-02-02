@@ -1,9 +1,7 @@
 # CURSO DE GML
 👨‍⚖️GML É UMA LINGUAGEM DE PROGRAMAÇÃO.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://manual.gamemaker.io/monthly/br/GameMaker_Language/GameMaker_Language_Index.htm) 
-[![GitHub Repo stars](https://img.shields.io/badge/USADO%20NA-ENGINE-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-GAME-MAKER) <br>
+<img src="FOTO.png" align="center" width="400"> <br>
 
 # 👀VISÃO PANORÂMICA:
 | PERGUNTA | RESPOSTA |
@@ -622,5 +620,10 @@ Espero que isso ajude a entender melhor esses conceitos na programação orienta
 
 8. **Menos Flexibilidade para Gêneros Específicos:**
    - Para certos tipos de jogos ou gêneros que requerem funcionalidades específicas, a GML pode ser menos flexível em comparação com engines mais especializadas.
+
+# SUBSIDIOS:
+- [CURSO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
+- [VEJA A DOCUMENTAÇÃO](https://manual.gamemaker.io/monthly/br/GameMaker_Language/GameMaker_Language_Index.htm)
+- [USADO NA ENGINE](https://github.com/VILHALVA/CURSO-DE-GAME-MAKER)
 
 
